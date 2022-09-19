@@ -18,4 +18,4 @@ if __name__ == '__main__':
     print(geraldo.idade)
     for filho in geraldo.filhos:
         print(filho.nome)
-    print(geraldo.filhos)
+
